@@ -1,0 +1,18 @@
+body {
+  background-color: yellow;
+  font-family: fantasy;
+}
+h1 {
+  color: Red;
+  font-size: xx-large;
+}
+.p-1 {
+  background-color: white;
+  color: blue;
+}
+h2 {
+  color: red;
+}
+.p-3 {
+  color: red;
+}
